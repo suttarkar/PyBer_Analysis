@@ -17,4 +17,4 @@ The chart below will show a comparison of the total fares based on city type (ur
 In the chart all three city types seem to have a generally **steady** fare, with **urban** being the **highest**, **suburban** in the **middle**, and **rural** the **lowest**.
 
 ## Summary
-Though the total fares is highest in urban and lowest in rural city types, the opposite is the case for average fare. Rural cities have the higher average fare while urban cities have the lowest average fare of the three. To
+Though the total fares is highest in urban and lowest in rural city types, the opposite is the case for average fare. Rural cities have the higher average fare while urban cities have the lowest average fare of the three. Despite having the highest average fares per driver both demand and supply of rides are currently quite low for rural areas. One way to fix this could be to attract drivers to start doing rides in rural areas by letting them know about the higher average fares.
